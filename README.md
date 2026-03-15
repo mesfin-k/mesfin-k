@@ -1,10 +1,27 @@
-- 👋 Hi, I’m Mesfin Kebede
-- 👀 I’m interested in computer and technology
-- 🌱 I’m currently learning computer science and cyber security
-- 💞️ I’m looking to collaborate on website, database and software
-- 📫 How to reach me? please visit https://mesfin-k.github.io/resume/
+## Hi, I'm Mesfin Kebede
 
-<!---
-mesfin-k/mesfin-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data Scientist | Machine Learning Enthusiast | Software Developer
+
+I am passionate about data science, machine learning, and building data-driven applications.
+
+Currently working on projects in machine learning, data analysis, and predictive modeling.
+
+Skills
+- Python
+- Pandas, NumPy, Scikit-learn
+- SQL
+- Java and Spring Boot
+- Data Analysis and Visualization
+- Machine Learning
+
+Projects
+- Titanic Survival Prediction (Gradient Boosting)
+- Customer Segmentation using Clustering Algorithms
+- Flight Delay Prediction with Bayesian Optimization
+- Fraud Detection using Transaction Data
+
+I am open to collaboration on data science, machine learning, and backend software projects.
+
+Contact
+Portfolio: https://mesfin-k.github.io  
+LinkedIn: https://www.linkedin.com/in/mesfin-kebede
